@@ -1,0 +1,20 @@
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical Lines - Mauricio.csprojAssemblyReference.cache
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical_Lines___Mauricio.formLine.resources
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical_Lines___Mauricio.Properties.Resources.resources
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical Lines - Mauricio.csproj.GenerateResource.cache
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical Lines - Mauricio.csproj.CoreCompileInputs.cache
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\bin\Debug\Mathematical Lines - Mauricio.exe.config
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\bin\Debug\Mathematical Lines - Mauricio.exe
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\bin\Debug\Mathematical Lines - Mauricio.pdb
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical Lines - Mauricio.exe
+C:\Users\72257gar\source\repos\Mathematical Lines - Mauricio\obj\Debug\Mathematical Lines - Mauricio.pdb
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\bin\Debug\Mathematical Lines - Mauricio.exe.config
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\bin\Debug\Mathematical Lines - Mauricio.exe
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\bin\Debug\Mathematical Lines - Mauricio.pdb
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical Lines - Mauricio.csproj.AssemblyReference.cache
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical_Lines___Mauricio.formLine.resources
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical_Lines___Mauricio.Properties.Resources.resources
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical Lines - Mauricio.csproj.GenerateResource.cache
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical Lines - Mauricio.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical Lines - Mauricio.exe
+C:\Users\mauri\Documents\Programming_Assignments\Highschool\Highschool\Mathematical Lines - Assingment #2\obj\Debug\Mathematical Lines - Mauricio.pdb
